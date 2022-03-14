@@ -32,10 +32,9 @@ struct Home: View {
                                 Text("Salir")
                             }
                             ,trailing:
-                                Button(action:{
-                            }){
-                            Text("Siguiente")
-                            }
+                                        NavigationLink(destination: Home2()){
+                    Text("Siguiente")
+                }
                 )
             }
         }
