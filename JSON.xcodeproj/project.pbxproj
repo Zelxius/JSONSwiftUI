@@ -15,6 +15,8 @@
 		5D66B5AF27DF9B9400874711 /* PostViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D66B5AE27DF9B9400874711 /* PostViewModel.swift */; };
 		5D66B5B127DFA4B000874711 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D66B5B027DFA4AF00874711 /* Login.swift */; };
 		5D66B5B327DFA52A00874711 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D66B5B227DFA52A00874711 /* Home.swift */; };
+		5D66B5B527DFB6C400874711 /* Modelo1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D66B5B427DFB6C400874711 /* Modelo1.swift */; };
+		5D66B5B727DFB71500874711 /* Modelo1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D66B5B627DFB71500874711 /* Modelo1ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		5D66B5AE27DF9B9400874711 /* PostViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewModel.swift; sourceTree = "<group>"; };
 		5D66B5B027DFA4AF00874711 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 		5D66B5B227DFA52A00874711 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		5D66B5B427DFB6C400874711 /* Modelo1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modelo1.swift; sourceTree = "<group>"; };
+		5D66B5B627DFB71500874711 /* Modelo1ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modelo1ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				5D66B5AC27DF9A5000874711 /* PostModel.swift */,
+				5D66B5B427DFB6C400874711 /* Modelo1.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -99,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				5D66B5AE27DF9B9400874711 /* PostViewModel.swift */,
+				5D66B5B627DFB71500874711 /* Modelo1ViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -177,7 +183,9 @@
 				5D66B5B127DFA4B000874711 /* Login.swift in Sources */,
 				5D66B59E27DF981700874711 /* ContentView.swift in Sources */,
 				5D66B5AD27DF9A5100874711 /* PostModel.swift in Sources */,
+				5D66B5B527DFB6C400874711 /* Modelo1.swift in Sources */,
 				5D66B5B327DFA52A00874711 /* Home.swift in Sources */,
+				5D66B5B727DFB71500874711 /* Modelo1ViewModel.swift in Sources */,
 				5D66B59C27DF981700874711 /* JSONApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
