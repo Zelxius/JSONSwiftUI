@@ -2,7 +2,7 @@
 //  Modelo2ViewModel.swift
 //  JSON
 //
-//  Created by Colimasoft on 14/03/22.
+//  Created by Zelxius on 14/03/22.
 //
 
 import Foundation
